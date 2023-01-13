@@ -1,7 +1,5 @@
-title: meteor-application-template-react
-description: A template for quickly starting Meteor application development
-google_analytics:
-show_downloads: true
+title: Manoa Inventory: POST
+description: A website showing what and who are where in POST.
 theme: jekyll-theme-cayman
 
 gems:
