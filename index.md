@@ -13,35 +13,35 @@ Manoa Inventory: POST is a web application allowing users to find what they are 
 
 ## User Stories
 
-# User Story #1
+### User Story #1
 
 As an office worker, I want to reallocate an occupant to a different room.
 
-<img src="https://cdn.discordapp.com/attachments/382434447070330880/1065356089547300914/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065356089547300914/image.png">
 
-# User Story #2
+### User Story #2
 
 As a tech support person, I want to generate a list of all functional ports and the rooms they are located in.
 
-<img src="https://cdn.discordapp.com/attachments/382434447070330880/1065355966054412358/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065355966054412358/image.png">
 
-# User Story #3
+### User Story #3
 
 As a faculty member (or TA/RA) I want to be able to search for an available classroom by date/time, building, floor, and/or equipment, and reserve it if it meets my specifications.
 
-<img src="https://cdn.discordapp.com/attachments/382434447070330880/1065355356361998498/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065355356361998498/image.png">
 
-# User Story #4
+### User Story #4
 
 As an undergraduate student I want to be able to look up my professor by name to find out his or her office hours and location. Need an approval from my advisor.
 
-<img src="https://cdn.discordapp.com/attachments/382434447070330880/1065355819442507866/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065355819442507866/image.png">
 
-# User Story #5
+### User Story #5
 
 As a graduate student, I wish to check which room will be available, so that I can reserve it for a workshop or a discussion. Might need an approval from my advisor.
 
-<img src="https://cdn.discordapp.com/attachments/382434447070330880/1065355671928836167/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065355671928836167/image.png">
 
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
