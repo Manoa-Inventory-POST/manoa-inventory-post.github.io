@@ -51,7 +51,6 @@ Team members:
 * Justin Jandoc
 * Shannon Kam
 * Eduardo Kho
-* Jamie Laurin
 * Zhixin Li
 * Xiao Luo
 * Yhanessa Sales
