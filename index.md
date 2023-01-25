@@ -1,6 +1,6 @@
 # Manoa Inventory: POST
 
-![ci-badge](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/workflows/ci-manoa-inventory-post/badge.svg)
+[![ci-meteor-application-template-production](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml/badge.svg)](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml)
 
 ## GitHub Repository
 [Repository Link](https://github.com/ics-414-team1/manoa-inventory-post)
