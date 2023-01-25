@@ -1,6 +1,6 @@
 # Manoa Inventory: POST
 
-[![ci-meteor-application-template-production](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml/badge.svg)](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml)
+![ci-badge](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/workflows/ci-manoa-inventory-post/badge.svg)
 
 ## GitHub Repository
 [Repository Link](https://github.com/ics-414-team1/manoa-inventory-post)
@@ -60,7 +60,11 @@ If you select "Sign up" it will direct you to following page and register your a
 
 <img src="doc/Sign-up.png">
 
+### Admin 
 
+<img src="doc/admin2.png">
+
+<img src="doc/admin1.png">
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
