@@ -1,5 +1,7 @@
 # Manoa Inventory: POST
 
+![ci-badge](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/workflows/ci-manoa-inventory-post/badge.svg)
+
 ## GitHub Repository
 [Repository Link](https://github.com/ics-414-team1/manoa-inventory-post)
 
