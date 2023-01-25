@@ -46,7 +46,19 @@ As a graduate student, I wish to check which room will be available, so that I c
 ### Landing page
 The landing page is presented to users when they first visit the site for help.
 
-![](images/Screen Shot 2023-01-24 at 10.52.40 PM.png)
+<img src="doc/Landing.png">
+
+
+### Sign in and sign up
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. If you hasn't sign up yet, choose the "Sign up" option. 
+
+<img src="doc/Sign-in.png">
+
+If you select "Sign up" it will direct you to following page and register your account. 
+
+<img src="doc/Sign-up.png">
+
+
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
