@@ -46,7 +46,7 @@ As a graduate student, I wish to check which room will be available, so that I c
 ### Landing page
 The landing page is presented to users when they first visit the site for help.
 
-<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1065355671928836167/image.png">
+<img width=500 src="Screen Shot 2023-01-24 at 10.52.40 PM.png">
 
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
