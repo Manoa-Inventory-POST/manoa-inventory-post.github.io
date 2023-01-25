@@ -3,7 +3,7 @@
 ![ci-badge](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/workflows/ci-manoa-inventory-post/badge.svg)
 
 ## GitHub Repository
-[Repository Link](https://github.com/ics-414-team1/manoa-inventory-post)
+[Repository Link](https://github.com/Manoa-Inventory-POST/manoa-inventory-post)
 
 ## Table of contents
 * [Overview](#overview)
@@ -69,11 +69,11 @@ If you select "Sign up" it will direct you to following page and register your a
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
 Team members:
-* Kai He
-* Justin Jandoc
-* Shannon Kam
-* Eduardo Kho
-* Zhixin Li
-* Xiao Luo
-* Yhanessa Sales
-* Lydia Sollis
+* [Kai He](https://github.com/kaihe630)
+* [Justin Jandoc](https://github.com/justinjandoc)
+* [Shannon Kam](https://github.com/shannonkam)
+* [Eduardo Kho](https://github.com/eduardokhojr)
+* [Zhixin Li](https://github.com/zhixinliuh)
+* [Xiao Luo](https://github.com/luoxiao11)
+* [Yhanessa Sales](https://github.com/yhanessaanne)
+* [Lydia Sollis](https://github.com/lsollis)
