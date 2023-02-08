@@ -72,6 +72,7 @@ User stories #14. As an Admin I want to edit a user's profile in the database.
 ## Faculty Page
 User stories #14. As a Faculty member, I want to reserve a room.
 
+<img src="doc/faculty_1.png">
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
