@@ -47,13 +47,13 @@ As a graduate student, I wish to check which room will be available, so that I c
 
 ## User Guide
 
-### Landing page
+### Landing Page
 The landing page is presented to users when they first visit the site for help.
 
 <img src="doc/Landing.png">
 
 
-### Sign In and Sign Up pages
+### Sign In and Sign Up Pages
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. If you hasn't sign up yet, choose the "Sign up" option. 
 
 <img src="doc/Sign-in.png">
@@ -62,7 +62,7 @@ If you select "Sign up" it will direct you to following page and register your a
 
 <img src="doc/Sign-up.png">
 
-### Map page
+### Map Page
 
 Click on the Map button on the navbar and you will see the floor plan for the third floor of POST.
 
@@ -72,27 +72,41 @@ Click on the Map button on the navbar and you will see the floor plan for the th
 
 User story #5: As an undergraduate student I want to be able to look up my professor by name to find out his or her office hours and location.
 
+### Faculty Search Page
+
 <img src="doc/Faculty-Search.png">
 
 ## Faculty User Story
 
 User story #13: As a Faculty member, I want to reserve a room.
+
+### Faculty Home Page
+
 <img src="doc/faculty_dashboard_initial.png">
+
+### Reserve Room Page
+
 <img src="doc/faculty_1.png">
 
-## Admin Page
+## Admin User Story
 
 User story #14: As an Admin, I want to edit a user's profile in the database.
+
+### Admin Page
 
 <img src="doc/admin_1.png">
 
 <img src="doc/admin_2.png">
 
+### Update User Page
+
 <img src="doc/admin_3.png">
 
-## Service Page
+## Office Worker User Story
 
 User story #15: As an office worker, I will review and manage service requests from members of the Post building.
+
+### Service Page
 
 <img src="doc/office_1.png">
 
