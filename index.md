@@ -62,6 +62,12 @@ If you select "Sign up" it will direct you to following page and register your a
 
 <img src="doc/Sign-up.png">
 
+### Map page
+
+Click on the Map button on the navbar and you will see the floor plan for the third floor of POST.
+
+<img src="doc/Map.png">
+
 ## Student User Story
 
 User story #5: As an undergraduate student I want to be able to look up my professor by name to find out his or her office hours and location.
