@@ -67,6 +67,7 @@ User stories #13. As a Faculty member, I want to reserve a room.
 <img src="doc/faculty_1.png">
 
 ## Admin Page
+
 User stories #14. As an Admin I want to edit a user's profile in the database.
 
 <img src="doc/admin_1.png">
@@ -75,6 +76,9 @@ User stories #14. As an Admin I want to edit a user's profile in the database.
 
 <img src="doc/admin_3.png">
 
+## Service Page
+
+User stories 15: As an office worker, I will review and manage service requests from members of the Post building.
 
 
 ## Team
