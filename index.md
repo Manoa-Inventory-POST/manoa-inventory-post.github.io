@@ -60,13 +60,18 @@ If you select "Sign up" it will direct you to following page and register your a
 
 <img src="doc/Sign-up.png">
 
-## Admin User story
-14. As an Admin I want to edit a user's profile in the database.
+## Admin Page
+User stories #14. As an Admin I want to edit a user's profile in the database.
+
 <img src="doc/admin_1.png">
 
 <img src="doc/admin_2.png">
 
 <img src="doc/admin_3.png">
+
+## Faculty Page
+User stories #14. As a Faculty member, I want to reserve a room.
+
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
