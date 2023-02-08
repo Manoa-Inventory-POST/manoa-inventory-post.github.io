@@ -80,6 +80,7 @@ User stories #14. As an Admin I want to edit a user's profile in the database.
 
 User stories 15: As an office worker, I will review and manage service requests from members of the Post building.
 
+<img src="doc/office_1.png">
 
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
