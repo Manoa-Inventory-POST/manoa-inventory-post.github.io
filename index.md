@@ -77,7 +77,7 @@ User story #5: As an undergraduate student I want to be able to look up my profe
 ## Faculty User Story
 
 User story #13: As a Faculty member, I want to reserve a room.
-
+<img src="doc/faculty_dashboard_initial.png">
 <img src="doc/faculty_1.png">
 
 ## Admin Page
