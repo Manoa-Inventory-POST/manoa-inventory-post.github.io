@@ -13,7 +13,7 @@
 ## Overview
 Manoa Inventory: POST is a web application allowing users to find what they are looking for on the third floor of POST building. Students will be able to locate where they may attend the class and provide a list of all office hours to use. TA's, RA's, faculty, and advisors will be able to sign up and request for a room to use. Student may request a room to use under permission. Office staff and IT support will be able to keep track of which rooms are in use and what type of equipment can be found in these rooms.
 
-## User Stories
+## User Stories Designs
 
 ### User Story #1
 
@@ -60,7 +60,8 @@ If you select "Sign up" it will direct you to following page and register your a
 
 <img src="doc/Sign-up.png">
 
-### Admin 
+## Admin User story
+14. As an Admin I want to edit a user's profile in the database.
 <img src="doc/admin_1.png">
 
 <img src="doc/admin_2.png">
