@@ -50,23 +50,23 @@ As a graduate student, I wish to check which room will be available, so that I c
 ### Landing Page
 The landing page is presented to users when they first visit the site for help.
 
-<img src="doc/Landing.png">
+<img src="doc/landing-page.png">
 
 
 ### Sign In and Sign Up Pages
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. If you hasn't sign up yet, choose the "Sign up" option. 
 
-<img src="doc/Sign-in.png">
+<img src="doc/sign-in-page.png">
 
 If you select "Sign up" it will direct you to following page and register your account. 
 
-<img src="doc/Sign-up.png">
+<img src="doc/sign-up-page.png">
 
 ### Map Page
 
 Click on the Map button on the navbar and you will see the floor plan for the third floor of POST.
 
-<img src="doc/Map.png">
+<img src="doc/map-page.png">
 
 ## Student User Story
 
@@ -74,7 +74,9 @@ User story #5: As an undergraduate student I want to be able to look up my profe
 
 ### Faculty Search Page
 
-<img src="doc/Faculty-Search.png">
+<img src="doc/faculty-search-page-1.png">
+
+<img src="doc/faculty-searach-page-2.png">
 
 ## Faculty User Story
 
@@ -82,11 +84,11 @@ User story #13: As a Faculty member, I want to reserve a room.
 
 ### Faculty Home Page
 
-<img src="doc/faculty_dashboard_initial.png">
+<img src="doc/faculty-home-page.png">
 
 ### Reserve Room Page
 
-<img src="doc/faculty_1.png">
+<img src="doc/reserve-room.png">
 
 ## Admin User Story
 
@@ -100,7 +102,7 @@ User story #14: As an Admin, I want to edit a user's profile in the database.
 
 ### Update User Page
 
-<img src="doc/admin_3.png">
+<img src="doc/admin-edit-user-page.png">
 
 ## Office Worker User Story
 
@@ -108,7 +110,7 @@ User story #15: As an office worker, I will review and manage service requests f
 
 ### Service Page
 
-<img src="doc/office_1.png">
+<img src="doc/service-request-page.png">
 
 ## Team
 [Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
