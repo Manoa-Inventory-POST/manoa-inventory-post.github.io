@@ -76,7 +76,7 @@ User story #5: As an undergraduate student I want to be able to look up my profe
 
 <img src="doc/faculty-search-page-1.png">
 
-<img src="doc/faculty-searach-page-2.png">
+<img src="doc/faculty-search-page-2.png">
 
 ## Faculty User Story
 
@@ -108,7 +108,7 @@ User story #14: As an Admin, I want to edit a user's profile in the database.
 
 User story #15: As an office worker, I will review and manage service requests from members of the Post building.
 
-### Service Page
+### Service Request Page
 
 <img src="doc/service-request-page.png">
 
