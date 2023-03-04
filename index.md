@@ -78,6 +78,10 @@ User story #5: As an undergraduate student I want to be able to look up my profe
 
 <img src="doc/faculty-search-page-2.png">
 
+### Full Faculty Info Page
+
+<img src="doc/full-faculty-info-page.png">
+
 ## Faculty User Story
 
 User story #13: As a Faculty member, I want to reserve a room.
