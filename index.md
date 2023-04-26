@@ -8,6 +8,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [User Stories](#user-stories)
+* [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [Team](#team)
 
