@@ -8,6 +8,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [User Stories](#user-stories)
+* [Deployment](#deployment)
 * [Team](#team)
 
 ## Overview
@@ -68,9 +69,7 @@ Click on the Map button on the navbar and you will see the floor plan for the th
 
 <img src="doc/map-page.png">
 
-## Student User Story
-
-User story #5: As an undergraduate student I want to be able to look up my professor by name to find out his or her office hours and location.
+## Student
 
 ### Faculty Search Page
 
@@ -82,42 +81,41 @@ User story #5: As an undergraduate student I want to be able to look up my profe
 
 <img src="doc/full-faculty-info-page.png">
 
-## Faculty User Story
+### Room Availability Page
 
-User story #13: As a Faculty member, I want to reserve a room.
-
-### Faculty Home Page
-
-<img src="doc/faculty-home-page.png">
-
-### Reserve Room Page
-
-<img src="doc/reserve-room.png">
-
-## Admin User Story
-
-User story #14: As an Admin, I want to edit a user's profile in the database.
-
-### Admin Page
-
-<img src="doc/admin_1.png">
-
-<img src="doc/admin_2.png">
-
-### Update User Page
-
-<img src="doc/admin-edit-user-page.png">
-
-## Office Worker User Story
-
-User story #15: As an office worker, I will review and manage service requests from members of the Post building.
+<img src="doc/room-availability-page.png">
 
 ### Service Request Page
 
 <img src="doc/service-request-page.png">
 
+## Faculty
+
+### Student List Page
+
+<img src="doc/student-list-page.png">
+
+## Admin
+
+### Admin Page
+
+<img src="doc/admin-home-page.png">
+
+### Update User Page
+
+<img src="doc/admin-edit-user-page.png">
+
+## Office Worker 
+
+### Service Request List Page
+
+<img src="doc/service-request-list-page.png">
+
+# Deployment
+[Digital Ocean](https://uhm-inventory.online/)
+
 ## Team
-[Manoa Inventory: POST team contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
+[Manoa Inventory: POST Team Contract](https://docs.google.com/document/d/1g1h5f-W4myk_X08G1r8DoUbju7osrv92QF5XMJfpASg/edit?usp=sharing)
 
 Team members:
 * [Kai He](https://github.com/kaihe630)
